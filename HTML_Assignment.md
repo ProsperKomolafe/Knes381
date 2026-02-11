@@ -25,6 +25,12 @@ appealing not only to professional musicians but also to collectors and
 enthusiasts. 
 </p>
 <h2 id="Fun Facts">Fun Facts</h2>
+
+```mermaid
+flowchart TD
+A[Gibson founded in 1902] --> B[Les Paul introduced in 1952] --> C[Associated with many iconic musicians] --> D[Used across rock, blues, and jazz]
+```
+
 <h2 id="specs">Gibson Specs</h2>
 <table>
 <tr>
@@ -38,5 +44,9 @@ enthusiasts.
 <tr>
 <td>Pickups</td>
 <td>Shape tone output (brightness, warmth, clarity</td>
+</tr>
+<tr>
+<td>Tonewood</td>
+<td>Influences resonance and sustain.</td>
 </tr>
 </table>
