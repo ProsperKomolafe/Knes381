@@ -4,10 +4,11 @@
 Click this link to purchase this beauty now: <a href="https://github.com/ProsperKomolafe/Knes381/blob/6a13bcb1b11dd18a1389c95a9a6cd70b442ae43b/readme.md">Gibson for sale! </a>
 <h3> Table of Contents </h3>
 <ul>
-<li><a href="#Why the Gibson"> Why the Gibson</a></li>
-<li><a href="#Fun Facts"> Fun Facts</a></li>
+<li><a href="#why-gibson">Why the Gibson</a></li>
+<li><a href="#fun-facts">Fun Facts</a></li>
+<li><a href="#gibson-specs">Gibson Specs</a></li>
 </ul>
-<h2 id="Why the Gibson">Why the Gibson</h2>
+<h2 id="why-gibson">Why the Gibson</h2>
 <p>
 Gibson guitars are widely recognized for their high-quality craftsmanship and
 distinct tonal characteristics. The company has a long history of producing
@@ -24,14 +25,14 @@ performance, build quality, and historical significance makes Gibson guitars
 appealing not only to professional musicians but also to collectors and
 enthusiasts. 
 </p>
-<h2 id="Fun Facts">Fun Facts</h2>
+<h2 id="fun-facts">Fun Facts</h2>
 
 ```mermaid
 flowchart TD
 A[Gibson founded in 1902] --> B[Les Paul introduced in 1952] --> C[Associated with many iconic musicians] --> D[Used across rock, blues, and jazz]
 ```
 
-<h2 id="specs">Gibson Specs</h2>
+<h2 id="gibson-specs">Gibson Specs</h2>
 <table>
 <tr>
 <th>Feature</th>
