@@ -52,5 +52,5 @@ A[Gibson founded in 1902] --> B[Les Paul introduced in 1952] --> C[Associated wi
 </tr>
 </table>
 <p>
-Its endurance is so good that one might say it has a high $\dot{V}O_{2,\max}$!
+Its endurance is so good that one might say it has a high $\dot{V}O_{2,\max}$! &#128514;
 </p>
