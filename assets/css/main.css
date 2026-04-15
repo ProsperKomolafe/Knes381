@@ -4687,3 +4687,28 @@ input, select, textarea {
 		}
 
 	}
+/* Intro Background Image */
+#intro {
+	background-image: url("../../Images/top30portrait.jpeg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: relative;
+}
+
+/* Dark overlay so text is readable */
+#intro::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.5);
+}
+
+/* Make text sit above overlay */
+#intro * {
+	position: relative;
+	z-index: 2;
+}
