@@ -21,7 +21,6 @@ The purpose of this project is to demonstrate:
 - **Home Page** → Key milestones and personal highlights
 - **About & Experience** → Background, roles, and leadership
 - **KNES 381 Portfolio** → Course-specific work and projects
-- **Charts Page** → Data visualization outputs
 
 ## Sections in Portfolio Page
 1. Basketball Biomechanical Analysis  
